@@ -7,7 +7,7 @@ vocalizations. It is a 19M-parameter model distilled from the source-separation 
 SAM-Audio; it needs no detector, text prompt or GPU, and runs about 90× faster than real time on a
 laptop CPU.
 
-[Project page](https://callcleaner.github.io) · [Model (Hugging Face)](https://huggingface.co/malper/CallCleaner) · Paper (arXiv, link coming)
+[Project page](https://callcleaner.github.io) · [Model (Hugging Face)](https://huggingface.co/malper/CallCleaner) · [Paper (arXiv)](https://arxiv.org/abs/2611.11491)
 
 ## Install
 
@@ -46,6 +46,7 @@ model architecture is from [Biodenoising](https://github.com/earthspecies/bioden
 @article{xie2026callcleaner,
   title  = {CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model},
   author = {Xie, Michael and Begu{\v{s}}, Ga{\v{s}}per and Alper, Morris},
+  journal = {arXiv preprint arXiv:2611.11491},
   year   = {2026}
 }
 ```
