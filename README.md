@@ -44,9 +44,10 @@ model architecture is from [Biodenoising](https://github.com/earthspecies/bioden
 
 ```bibtex
 @article{xie2026callcleaner,
-  title  = {CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model},
-  author = {Xie, Michael and Begu{\v{s}}, Ga{\v{s}}per and Alper, Morris},
-  journal = {arXiv preprint arXiv:2611.11491},
-  year   = {2026}
+  title         = {CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model},
+  author        = {Michael Xie and Ga{\v{s}}per Begu{\v{s}} and Morris Alper},
+  year          = {2026},
+  eprint        = {2611.11491},
+  archivePrefix = {arXiv}
 }
 ```
